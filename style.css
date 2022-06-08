@@ -72,6 +72,7 @@ body {
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
+    
 }
 
 .group {
@@ -86,11 +87,11 @@ body {
 }
 
 .group:nth-child(1) {
-    min-height: 19rem;
+    min-height: 25rem;
 }
 
 .instagram-logo {
-    height: 3rem;
+    height: 5rem;
 }
 
 .profile-photo {
